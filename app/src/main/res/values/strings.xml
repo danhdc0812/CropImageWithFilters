@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Effects</string>
+
+    <string-array name="filters">
+        <item>Normal</item>
+        <item>Highlight</item>
+        <item>Invert</item>
+        <item>Grey</item>
+        <item>Gamma</item>
+        <item>ColorFilterRed</item>
+        <item>ColorFilterBlue</item>
+        <item>ColorFilterGreen</item>
+        <item>Sepia</item>
+        <item>ColorDepth</item>
+        <item>Contrast</item>
+        <item>Brightness</item>
+        <item>Blur</item>
+        <item>Sharp</item>
+        <item>MeanRemoval</item>
+        <item>Smooth</item>
+        <item>Emboss</item>
+        <item>Engrave</item>
+        <item>Boost</item>
+        <item>RoundCorner</item>
+        <item>WaterMark</item>
+        <item>Tint</item>
+        <item>Flea</item>
+        <item>Black</item>
+        <item>Snow</item>
+        <item>Shading</item>
+        <item>ShadingYellow</item>
+        <item>ShadingGreen</item>
+        <item>Saturation</item>
+        <item>Hue</item>
+    </string-array>
+
+</resources>
